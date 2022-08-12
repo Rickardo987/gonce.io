@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@gonce.io
+Expires: 2023-08-31T15:59:00.000Z
+Encryption: https://keybase.io/rickardo/key.asc
+Canonical: https://gonce.io/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQ3EQmxEr18NPkspXam+Ix9ChJCnwUCYvWXugAKCRCm+Ix9ChJC
+nwErAQD/aRBbxfoBndxGVIo8aGQtfmHEoo6dBfkiMlCoTh7USwD/Z2UJzuINOZWx
+xAj6L7G/I4yXLKjmi2sppJuTMkBOUgE=
+=NzdR
+-----END PGP SIGNATURE-----
